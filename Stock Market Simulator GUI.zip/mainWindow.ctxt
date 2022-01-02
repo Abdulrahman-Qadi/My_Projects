@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=mainWindow
+comment1.params=profiles
+comment1.target=mainWindow(stockProfile[][])
+comment2.params=stocksProfiles
+comment2.target=void\ setTextBoxValues(stockProfile[][])
+comment3.params=field\ profile
+comment3.target=void\ setStockPriceTextField(javax.swing.JTextField,\ stockProfile)
+comment4.params=field\ change
+comment4.target=void\ setDifferenceTextField(javax.swing.JTextField,\ double)
+comment5.params=field\ change
+comment5.target=void\ setTextFieldColour(javax.swing.JTextField,\ double)
+comment6.params=number
+comment6.target=java.lang.Double\ roundTo2DP(double)
+numComments=7

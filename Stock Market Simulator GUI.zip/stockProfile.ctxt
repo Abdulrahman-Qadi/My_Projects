@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=stockProfile
+comment1.params=pName\ sPrice\ bPrice
+comment1.target=stockProfile(java.lang.String,\ double,\ double)
+comment10.params=
+comment10.target=double\ getChange()
+comment2.params=pName\ sPrice\ bPrice\ m
+comment2.target=stockProfile(java.lang.String,\ double,\ double,\ double)
+comment3.params=
+comment3.target=java.lang.String\ getStockName()
+comment4.params=
+comment4.target=double\ getBuyPrice()
+comment5.params=
+comment5.target=double\ getSellPrice()
+comment6.params=bPrice
+comment6.target=void\ setBuyPrice(double)
+comment7.params=sPrice
+comment7.target=void\ setSellPrice(double)
+comment8.params=
+comment8.target=double\ getMargin()
+comment9.params=c
+comment9.target=void\ setChange(double)
+numComments=11

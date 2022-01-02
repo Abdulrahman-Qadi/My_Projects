@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=companies
+comment1.params=t\ name\ m\ sPrice\ bPrice
+comment1.target=companies(java.lang.String,\ java.lang.String,\ double,\ double,\ double)
+numComments=2

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=cryptoCurrencies
+comment1.params=t\ name\ m\ sPrice\ bPrice
+comment1.target=cryptoCurrencies(java.lang.String,\ java.lang.String,\ double,\ double,\ double)
+numComments=2

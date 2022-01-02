@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=StockMarket
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=currencyPair\ price
+comment10.target=currencies[]\ createCurrencyStock(java.lang.String[][],\ double[][])
+comment11.params=ticker\ companyName\ margin\ price
+comment11.target=companies[]\ createCompanyStock(java.lang.String[],\ java.lang.String[],\ double[],\ double[][])
+comment12.params=cryptoTicker\ cryptoName\ margin\ price
+comment12.target=cryptoCurrencies[]\ createCrypto(java.lang.String[],\ java.lang.String[],\ double[],\ double[][])
+comment2.params=stockProfile\ window
+comment2.target=void\ recalculateStock(stockProfile[][],\ mainWindow)
+comment3.params=
+comment3.target=void\ run()
+comment4.params=stocks
+comment4.target=void\ recalculate(stockProfile[][])
+comment5.params=profile\ changeSellPrice\ changeBuyPrice
+comment5.target=void\ setPriceChange(stockProfile,\ double,\ double)
+comment6.params=profile\ rateChange
+comment6.target=void\ bullish(stockProfile,\ double)
+comment7.params=profile\ rateChange
+comment7.target=void\ bearish(stockProfile,\ double)
+comment8.params=number
+comment8.target=java.lang.Double\ twoDecimalPlaces(double)
+comment9.params=
+comment9.target=stockProfile[][]\ createAllStocks()
+numComments=13

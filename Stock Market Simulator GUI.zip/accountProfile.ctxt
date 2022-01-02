@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=accountProfile
+comment1.params=aName\ bal
+comment1.target=accountProfile(java.lang.String,\ double)
+comment2.params=
+comment2.target=java.lang.String\ getAccountName()
+comment3.params=b
+comment3.target=void\ setBalance(double)
+comment4.params=
+comment4.target=double\ getBalance()
+comment5.params=s
+comment5.target=void\ addStock(stockProfile)
+comment6.params=s
+comment6.target=void\ removeStock(stockProfile)
+comment7.params=
+comment7.target=java.util.ArrayList\ getStocks()
+numComments=8
