@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=primaryStage
+comment1.target=void\ start(javafx.stage.Stage)
+comment2.params=
+comment2.target=void\ setSpeed()
+comment2.text=Set\ specified\ rate\ for\ a\ Car\ list
+numComments=3

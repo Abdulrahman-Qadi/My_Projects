@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Mercedes
+comment1.params=
+comment1.target=Mercedes()
+comment1.text=Construct\ and\ animate\ a\ default\ CarPane
+comment2.params=
+comment2.target=void\ drawCar()
+comment2.text=Create\ a\ car\ an\ place\ it\ in\ the\ pane
+numComments=3
